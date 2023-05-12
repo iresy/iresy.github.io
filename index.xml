@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Oct 2017 15:26:15 +0000</lastBuildDate><atom:link href="https://iresy.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>SecondBlog</title>
+      <link>https://iresy.github.io/blog/secondblog/</link>
+      <pubDate>Fri, 12 May 2023 05:19:54 +0000</pubDate>
+      
+      <guid>https://iresy.github.io/blog/secondblog/</guid>
+      <description>안녕하세요! 두 번째 블로그 입니다.</description>
+    </item>
+    
+    <item>
       <title>Hugo Portfolio Website</title>
       <link>https://iresy.github.io/portfolio/hugo-portfolio-website/</link>
       <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
